@@ -1,0 +1,3 @@
+# Hospital Management System
+
+-	Hospital Management System is a flexible and easy to use system. It is designed and developed to deliver benefits and comfortness to the hospital management as well as it's patients. It is designed for multi-speciality hospitals to cover a wide range of hospital administration and management process. The current system provides information to support the hospital administration and taking care of the patients as well as various features and functionalities for patients too. It helps to maintain the administration and improves it's effectiveness and quality of work. The purpose of this project is to transform the manual process of hospital management into a computerized system.
